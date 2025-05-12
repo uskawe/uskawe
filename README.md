@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Seja+Bem-vindo!;Be+Welcome!&color=(9D4EDD" alt="Typing SVG" />
+  </a>
+</p>
+
 ## Olá! Me chamo Kauê Pereira e sou dev Full Stack. 👾
 
 🎓 Graduando em Jogos Digitais | 💻 Técnico em Jogos digitais | 🤖 Técnico em Eng. Robótica  
