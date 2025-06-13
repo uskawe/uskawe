@@ -8,7 +8,7 @@
 
 🎓 Graduando em Jogos Digitais | 💻 Técnico em Jogos digitais | 🤖 Técnico em Eng. Robótica  
 
-🎯 Atualmente focado em: Programação, montagem de computadores e evolução pessoal.
+🎯 Atualmente focado em: Programação, montagem de hardware e evolução pessoal.
 
 ---
 
