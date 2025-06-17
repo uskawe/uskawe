@@ -39,6 +39,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauê-pereira-1b5673276/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kaue.pereira.silva77@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/wtfkawe)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kawepr)  
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=uskawe)
